@@ -61,7 +61,7 @@ Fully async architecture using asyncio
 
 ## 1️⃣ Clone the repo
 
-git clone <git@github.com:KeyurShelke/Tranfi_Rag.git>
+git clone <git@github.com:KeyurShelke/Tranfi_RAG_PRJ.git>
 cd TRANSFI_PROJECT
 
 -
