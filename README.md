@@ -1,29 +1,4 @@
-📌 Project Structure
 
-TransFi/
-│
-├── core/
-│ ├── ingest_core.py # Reusable ingestion pipeline (async)
-│ ├── query_core.py # Reusable RAG + retrieval logic
-│
-├── data/
-│ ├── raw_html/ # Saved HTML pages
-│ ├── text/ # Cleaned text from pages
-│
-├── index/
-│ ├── embeddings.npy # Vector index
-│ ├── metadata.json # Chunk + doc metadata
-│
-├── scripts/
-│ ├── api.py # FastAPI service
-│ ├── webhook_receiver.py # Webhook callback server
-│
-├── ingest.py # CLI ingestion tool (Part 1)
-├── query.py # CLI query tool (Part 1)
-├── requirements.txt
-└── README.md
-
----
 
 ⚡ Features
 
